@@ -1,0 +1,979 @@
+Country,Year,Emission_factor
+World,2018,575
+Americas,2018,429
+"OECD Americas (US, Canada, Mexico, Chile)",2018,460
+Non-OECD Americas,2018,267
+Africa,2018,730
+Asia,2018,700
+ASEAN,2018,700
+Europe,2018,371
+EU - 28,2018,294
+Europe excluding EU - 28,2018,490
+Middle East,2018,736
+Oceania,2018,618
+Albania,2018,19
+Algeria,2018,668
+Angola,2018,617
+Argentina,2018,444
+Armenia,2018,256
+Australia,2018,810
+Austria,2018,208
+Azerbaijan,2018,587
+Bahrain,2018,795
+Bangladesh,2018,636
+Belarus,2018,499
+Belgium,2018,277
+Benin,2018,1083
+Bolivia,2018,510
+Bosnia and Herzegovina,2018,824
+Botswana,2018,1676
+Brazil,2018,167
+Brunei Darussalam,2018,894
+Bulgaria,2018,523
+Cambodia,2018,489
+Cameroon,2018,410
+Canada,2018,172
+Chile,2018,483
+People's Rep. of China,2018,694
+Colombia,2018,215
+Congo,2018,610
+Democratic Republic of the Congo,2018,20
+Costa Rica,2018,36
+Côte d'Ivoire,2018,460
+Croatia,2018,203
+Cuba,2018,661
+Curacao/Netherlands Antilles,2018,702
+Cyprus,2018,759
+Czech Republic,2018,572
+Denmark,2018,266
+Dominican Republic,2018,717
+Ecuador,2018,267
+Egypt,2018,659
+El Salvador,2018,265
+Eritrea,2018,982
+Estonia,2018,972
+Ethiopia,2018,19
+Finland,2018,199
+France,2018,57
+Guadeloupe,2018,906
+Saint Pierre et Miquelon,2018,943
+La Réunion,2018,780
+Nouvelle Calédonie,2018,560
+Mayotte,2018,780
+Martinique,2018,840
+Guyane,2018,957
+Macedonia,2018,752
+Gabon,2018,735
+Georgia,2018,120
+Germany,2018,484
+Ghana,2018,331
+Gibraltar,2018,858
+Greece,2018,655
+Greenland,2018,90
+Guatemala,2018,497
+Haiti,2018,1401
+Honduras,2018,482
+"Hong Kong, China",2018,832
+Hungary,2018,332
+Iceland,2018,27
+India,2018,941
+Indonesia,2018,895
+Iran,2018,668
+Iraq,2018,1698
+Ireland,2018,424
+Israel,2018,592
+Italy,2018,404
+Jamaica,2018,815
+Japan,2018,597
+Jordan,2018,573
+Kazakhstan,2018,737
+Kenya,2018,243
+Korea,2018,611
+DPR of Korea,2018,246
+Kosovo,2018,1257
+Kuwait,2018,816
+Kyrgyzstan,2018,79
+Latvia,2018,240
+Lebanon,2018,893
+Libya,2018,867
+Lithuania,2018,151
+Luxembourg,2018,218
+Malaysia,2018,773
+Malta,2018,468
+Mauritius,2018,936
+Mexico,2018,597
+Republic of Moldova,2018,624
+Mongolia,2018,1395
+Montenegro,2018,471
+Morocco,2018,789
+Mozambique,2018,107
+Myanmar,2018,450
+Namibia,2018,46
+Nepal,2018,19
+Netherlands,2018,515
+Nicaragua,2018,448
+Niger,2018,1156
+Nigeria,2018,558
+Norway,2018,30
+New Zealand,2018,154
+Oman,2018,584
+Pakistan,2018,522
+Panama,2018,228
+Paraguay,2018,19
+Peru,2018,271
+Philippines,2018,830
+Poland,2018,809
+Portugal,2018,381
+Qatar,2018,588
+Romania,2018,413
+Russian Federation,2018,452
+Saudi Arabia,2018,657
+Senegal,2018,1001
+Serbia,2018,837
+Singapore,2018,489
+Slovak Republic,2018,210
+Slovenia,2018,298
+South Africa,2018,1026
+Spain,2018,332
+Sri Lanka,2018,626
+Sudan,2018,457
+Sudan,2018,457
+Suriname,2018,585
+Sweden,2018,55
+Switzerland,2018,59
+Syrian Arab Republic,2018,845
+Chinese Taipei,2018,644
+Tajikistan,2018,91
+United Rep. of Tanzania,2018,444
+Thailand,2018,607
+Togo,2018,707
+Trinidad and Tobago,2018,654
+Tunisia,2018,592
+Turkey,2018,573
+Turkmenistan,2018,1107
+United Arab Emirates,2018,645
+United Kingdom,2018,328
+Ukraine,2018,462
+Uruguay,2018,90
+United States,2018,492
+Uzbekistan,2018,589
+Venezuela,2018,462
+Viet Nam,2018,531
+Yemen,2018,945
+Zambia,2018,211
+Zimbabwe,2018,846
+World,2019,564
+Americas,2019,408
+"OECD Americas (US, Canada, Mexico, Chile)",2019,435
+Non-OECD Americas,2019,264
+Africa,2019,717
+Asia,2019,687
+ASEAN,2019,711
+Europe,2019,345
+EU - 28,2019,264
+Europe excluding EU - 28,2019,454
+Middle East,2019,735
+Oceania,2019,585
+Albania,2019,19
+Algeria,2019,657
+Angola,2019,606
+Argentina,2019,444
+Armenia,2019,255
+Australia,2019,766
+Austria,2019,191
+Azerbaijan,2019,584
+Bahrain,2019,794
+Bangladesh,2019,630
+Belarus,2019,464
+Belgium,2019,254
+Benin,2019,1064
+Bolivia,2019,509
+Bosnia and Herzegovina,2019,759
+Botswana,2019,1647
+Brazil,2019,166
+Brunei Darussalam,2019,907
+Bulgaria,2019,475
+Cambodia,2019,496
+Cameroon,2019,403
+Canada,2019,164
+Chile,2019,482
+People's Rep. of China,2019,686
+Colombia,2019,215
+Congo,2019,600
+Democratic Republic of the Congo,2019,20
+Costa Rica,2019,36
+Côte d'Ivoire,2019,452
+Croatia,2019,187
+Cuba,2019,661
+Curacao/Netherlands Antilles,2019,701
+Cyprus,2019,688
+Czech Republic,2019,519
+Denmark,2019,246
+Dominican Republic,2019,716
+Ecuador,2019,267
+Egypt,2019,647
+El Salvador,2019,266
+Eritrea,2019,966
+Estonia,2019,880
+Ethiopia,2019,19
+Finland,2019,186
+France,2019,56
+Guadeloupe,2019,889
+Saint Pierre et Miquelon,2019,925
+La Réunion,2019,765
+Nouvelle Calédonie,2019,549
+Mayotte,2019,764
+Martinique,2019,824
+Guyane,2019,945
+Macedonia,2019,696
+Gabon,2019,722
+Georgia,2019,120
+Germany,2019,440
+Ghana,2019,326
+Gibraltar,2019,792
+Greece,2019,596
+Greenland,2019,89
+Guatemala,2019,497
+Haiti,2019,1405
+Honduras,2019,483
+"Hong Kong, China",2019,822
+Hungary,2019,304
+Iceland,2019,26
+India,2019,915
+Indonesia,2019,909
+Iran,2019,667
+Iraq,2019,1695
+Ireland,2019,388
+Israel,2019,548
+Italy,2019,371
+Jamaica,2019,815
+Japan,2019,574
+Jordan,2019,572
+Kazakhstan,2019,731
+Kenya,2019,239
+Korea,2019,603
+DPR of Korea,2019,243
+Kosovo,2019,1165
+Kuwait,2019,815
+Kyrgyzstan,2019,79
+Latvia,2019,223
+Lebanon,2019,892
+Libya,2019,853
+Lithuania,2019,143
+Luxembourg,2019,201
+Malaysia,2019,784
+Malta,2019,428
+Mauritius,2019,920
+Mexico,2019,571
+Republic of Moldova,2019,579
+Mongolia,2019,1377
+Montenegro,2019,436
+Morocco,2019,776
+Mozambique,2019,106
+Myanmar,2019,457
+Namibia,2019,45
+Nepal,2019,19
+Netherlands,2019,469
+Nicaragua,2019,448
+Niger,2019,1136
+Nigeria,2019,549
+Norway,2019,29
+New Zealand,2019,152
+Oman,2019,583
+Pakistan,2019,516
+Panama,2019,227
+Paraguay,2019,19
+Peru,2019,271
+Philippines,2019,842
+Poland,2019,732
+Portugal,2019,348
+Qatar,2019,587
+Romania,2019,377
+Russian Federation,2019,449
+Saudi Arabia,2019,656
+Senegal,2019,984
+Serbia,2019,772
+Singapore,2019,496
+Slovak Republic,2019,193
+Slovenia,2019,271
+South Africa,2019,1022
+Spain,2019,304
+Sri Lanka,2019,618
+Sudan,2019,450
+Sudan,2019,450
+Suriname,2019,584
+Sweden,2019,53
+Switzerland,2019,56
+Syrian Arab Republic,2019,844
+Chinese Taipei,2019,636
+Tajikistan,2019,91
+United Rep. of Tanzania,2019,436
+Thailand,2019,616
+Togo,2019,695
+Trinidad and Tobago,2019,653
+Tunisia,2019,582
+Turkey,2019,531
+Turkmenistan,2019,1099
+United Arab Emirates,2019,644
+United Kingdom,2019,306
+Ukraine,2019,427
+Uruguay,2019,91
+United States,2019,466
+Uzbekistan,2019,585
+Venezuela,2019,463
+Viet Nam,2019,539
+Yemen,2019,944
+Zambia,2019,207
+Zimbabwe,2019,832
+World,2020,551
+Americas,2020,394
+"OECD Americas (US, Canada, Mexico, Chile)",2020,417
+Non-OECD Americas,2020,260
+Africa,2020,699
+Asia,2020,671
+ASEAN,2020,705
+Europe,2020,326
+EU - 28,2020,248
+Europe excluding EU - 28,2020,430
+Middle East,2020,721
+Oceania,2020,560
+Albania,2020,18
+Algeria,2020,640
+Angola,2020,591
+Argentina,2020,427
+Armenia,2020,251
+Australia,2020,732
+Austria,2020,182
+Azerbaijan,2020,576
+Bahrain,2020,777
+Bangladesh,2020,619
+Belarus,2020,440
+Belgium,2020,241
+Benin,2020,1038
+Bolivia,2020,489
+Bosnia and Herzegovina,2020,715
+Botswana,2020,1605
+Brazil,2020,161
+Brunei Darussalam,2020,900
+Bulgaria,2020,447
+Cambodia,2020,492
+Cameroon,2020,393
+Canada,2020,159
+Chile,2020,461
+People's Rep. of China,2020,674
+Colombia,2020,207
+Congo,2020,586
+Democratic Republic of the Congo,2020,20
+Costa Rica,2020,36
+Côte d'Ivoire,2020,441
+Croatia,2020,178
+Cuba,2020,635
+Curacao/Netherlands Antilles,2020,671
+Cyprus,2020,648
+Czech Republic,2020,488
+Denmark,2020,235
+Dominican Republic,2020,686
+Ecuador,2020,256
+Egypt,2020,632
+El Salvador,2020,257
+Eritrea,2020,941
+Estonia,2020,827
+Ethiopia,2020,19
+Finland,2020,178
+France,2020,56
+Guadeloupe,2020,869
+Saint Pierre et Miquelon,2020,904
+La Réunion,2020,747
+Nouvelle Calédonie,2020,537
+Mayotte,2020,747
+Martinique,2020,805
+Guyane,2020,931
+Macedonia,2020,658
+Gabon,2020,704
+Georgia,2020,118
+Germany,2020,415
+Ghana,2020,318
+Gibraltar,2020,747
+Greece,2020,562
+Greenland,2020,88
+Guatemala,2020,477
+Haiti,2020,1358
+Honduras,2020,466
+"Hong Kong, China",2020,807
+Hungary,2020,288
+Iceland,2020,26
+India,2020,894
+Indonesia,2020,902
+Iran,2020,654
+Iraq,2020,1664
+Ireland,2020,366
+Israel,2020,518
+Italy,2020,351
+Jamaica,2020,784
+Japan,2020,560
+Jordan,2020,561
+Kazakhstan,2020,721
+Kenya,2020,233
+Korea,2020,592
+DPR of Korea,2020,239
+Kosovo,2020,1102
+Kuwait,2020,799
+Kyrgyzstan,2020,78
+Latvia,2020,213
+Lebanon,2020,874
+Libya,2020,832
+Lithuania,2020,138
+Luxembourg,2020,191
+Malaysia,2020,778
+Malta,2020,405
+Mauritius,2020,897
+Mexico,2020,551
+Republic of Moldova,2020,549
+Mongolia,2020,1352
+Montenegro,2020,412
+Morocco,2020,756
+Mozambique,2020,103
+Myanmar,2020,453
+Namibia,2020,44
+Nepal,2020,19
+Netherlands,2020,443
+Nicaragua,2020,432
+Niger,2020,1108
+Nigeria,2020,535
+Norway,2020,28
+New Zealand,2020,149
+Oman,2020,571
+Pakistan,2020,507
+Panama,2020,218
+Paraguay,2020,19
+Peru,2020,260
+Philippines,2020,835
+Poland,2020,688
+Portugal,2020,329
+Qatar,2020,576
+Romania,2020,356
+Russian Federation,2020,443
+Saudi Arabia,2020,643
+Senegal,2020,959
+Serbia,2020,728
+Singapore,2020,492
+Slovak Republic,2020,183
+Slovenia,2020,255
+South Africa,2020,1008
+Spain,2020,287
+Sri Lanka,2020,607
+Sudan,2020,439
+Sudan,2020,439
+Suriname,2020,559
+Sweden,2020,51
+Switzerland,2020,54
+Syrian Arab Republic,2020,827
+Chinese Taipei,2020,624
+Tajikistan,2020,90
+United Rep. of Tanzania,2020,426
+Thailand,2020,611
+Togo,2020,677
+Trinidad and Tobago,2020,625
+Tunisia,2020,568
+Turkey,2020,502
+Turkmenistan,2020,1084
+United Arab Emirates,2020,631
+United Kingdom,2020,291
+Ukraine,2020,404
+Uruguay,2020,89
+United States,2020,449
+Uzbekistan,2020,577
+Venezuela,2020,446
+Viet Nam,2020,535
+Yemen,2020,926
+Zambia,2020,202
+Zimbabwe,2020,811
+World,2021,539
+Americas,2021,380
+"OECD Americas (US, Canada, Mexico, Chile)",2021,400
+Non-OECD Americas,2021,255
+Africa,2021,682
+Asia,2021,656
+ASEAN,2021,699
+Europe,2021,309
+EU - 28,2021,232
+Europe excluding EU - 28,2021,407
+Middle East,2021,707
+Oceania,2021,536
+Albania,2021,18
+Algeria,2021,625
+Angola,2021,576
+Argentina,2021,410
+Armenia,2021,248
+Australia,2021,700
+Austria,2021,173
+Azerbaijan,2021,568
+Bahrain,2021,761
+Bangladesh,2021,608
+Belarus,2021,418
+Belgium,2021,229
+Benin,2021,1012
+Bolivia,2021,469
+Bosnia and Herzegovina,2021,673
+Botswana,2021,1564
+Brazil,2021,156
+Brunei Darussalam,2021,893
+Bulgaria,2021,421
+Cambodia,2021,488
+Cameroon,2021,383
+Canada,2021,153
+Chile,2021,441
+People's Rep. of China,2021,662
+Colombia,2021,198
+Congo,2021,572
+Democratic Republic of the Congo,2021,19
+Costa Rica,2021,35
+Côte d'Ivoire,2021,431
+Croatia,2021,169
+Cuba,2021,610
+Curacao/Netherlands Antilles,2021,643
+Cyprus,2021,610
+Czech Republic,2021,459
+Denmark,2021,224
+Dominican Republic,2021,658
+Ecuador,2021,246
+Egypt,2021,616
+El Salvador,2021,248
+Eritrea,2021,917
+Estonia,2021,778
+Ethiopia,2021,18
+Finland,2021,170
+France,2021,55
+Guadeloupe,2021,849
+Saint Pierre et Miquelon,2021,884
+La Réunion,2021,730
+Nouvelle Calédonie,2021,525
+Mayotte,2021,730
+Martinique,2021,788
+Guyane,2021,918
+Macedonia,2021,622
+Gabon,2021,686
+Georgia,2021,117
+Germany,2021,392
+Ghana,2021,310
+Gibraltar,2021,705
+Greece,2021,529
+Greenland,2021,86
+Guatemala,2021,458
+Haiti,2021,1314
+Honduras,2021,449
+"Hong Kong, China",2021,793
+Hungary,2021,272
+Iceland,2021,26
+India,2021,875
+Indonesia,2021,894
+Iran,2021,641
+Iraq,2021,1633
+Ireland,2021,346
+Israel,2021,489
+Italy,2021,332
+Jamaica,2021,754
+Japan,2021,546
+Jordan,2021,550
+Kazakhstan,2021,711
+Kenya,2021,228
+Korea,2021,581
+DPR of Korea,2021,235
+Kosovo,2021,1042
+Kuwait,2021,783
+Kyrgyzstan,2021,77
+Latvia,2021,204
+Lebanon,2021,856
+Libya,2021,811
+Lithuania,2021,133
+Luxembourg,2021,181
+Malaysia,2021,772
+Malta,2021,383
+Mauritius,2021,874
+Mexico,2021,532
+Republic of Moldova,2021,520
+Mongolia,2021,1328
+Montenegro,2021,389
+Morocco,2021,737
+Mozambique,2021,101
+Myanmar,2021,450
+Namibia,2021,43
+Nepal,2021,19
+Netherlands,2021,418
+Nicaragua,2021,417
+Niger,2021,1080
+Nigeria,2021,522
+Norway,2021,27
+New Zealand,2021,147
+Oman,2021,560
+Pakistan,2021,499
+Panama,2021,209
+Paraguay,2021,19
+Peru,2021,250
+Philippines,2021,829
+Poland,2021,647
+Portugal,2021,311
+Qatar,2021,564
+Romania,2021,336
+Russian Federation,2021,438
+Saudi Arabia,2021,630
+Senegal,2021,935
+Serbia,2021,686
+Singapore,2021,488
+Slovak Republic,2021,173
+Slovenia,2021,240
+South Africa,2021,994
+Spain,2021,271
+Sri Lanka,2021,597
+Sudan,2021,428
+Sudan,2021,428
+Suriname,2021,535
+Sweden,2021,50
+Switzerland,2021,52
+Syrian Arab Republic,2021,810
+Chinese Taipei,2021,613
+Tajikistan,2021,89
+United Rep. of Tanzania,2021,415
+Thailand,2021,606
+Togo,2021,661
+Trinidad and Tobago,2021,598
+Tunisia,2021,554
+Turkey,2021,475
+Turkmenistan,2021,1070
+United Arab Emirates,2021,619
+United Kingdom,2021,277
+Ukraine,2021,382
+Uruguay,2021,88
+United States,2021,433
+Uzbekistan,2021,569
+Venezuela,2021,429
+Viet Nam,2021,530
+Yemen,2021,908
+Zambia,2021,197
+Zimbabwe,2021,791
+World,2022,528
+Americas,2022,366
+"OECD Americas (US, Canada, Mexico, Chile)",2022,383
+Non-OECD Americas,2022,251
+Africa,2022,665
+Asia,2022,642
+ASEAN,2022,693
+Europe,2022,293
+EU - 28,2022,217
+Europe excluding EU - 28,2022,385
+Middle East,2022,693
+Oceania,2022,513
+Albania,2022,18
+Algeria,2022,609
+Angola,2022,561
+Argentina,2022,395
+Armenia,2022,245
+Australia,2022,670
+Austria,2022,164
+Azerbaijan,2022,561
+Bahrain,2022,746
+Bangladesh,2022,598
+Belarus,2022,396
+Belgium,2022,217
+Benin,2022,987
+Bolivia,2022,450
+Bosnia and Herzegovina,2022,634
+Botswana,2022,1524
+Brazil,2022,151
+Brunei Darussalam,2022,886
+Bulgaria,2022,396
+Cambodia,2022,484
+Cameroon,2022,374
+Canada,2022,148
+Chile,2022,422
+People's Rep. of China,2022,650
+Colombia,2022,191
+Congo,2022,558
+Democratic Republic of the Congo,2022,19
+Costa Rica,2022,34
+Côte d'Ivoire,2022,420
+Croatia,2022,160
+Cuba,2022,587
+Curacao/Netherlands Antilles,2022,616
+Cyprus,2022,574
+Czech Republic,2022,432
+Denmark,2022,214
+Dominican Republic,2022,632
+Ecuador,2022,237
+Egypt,2022,601
+El Salvador,2022,239
+Eritrea,2022,894
+Estonia,2022,731
+Ethiopia,2022,18
+Finland,2022,163
+France,2022,54
+Guadeloupe,2022,830
+Saint Pierre et Miquelon,2022,865
+La Réunion,2022,714
+Nouvelle Calédonie,2022,513
+Mayotte,2022,714
+Martinique,2022,770
+Guyane,2022,906
+Macedonia,2022,588
+Gabon,2022,669
+Georgia,2022,116
+Germany,2022,369
+Ghana,2022,303
+Gibraltar,2022,665
+Greece,2022,499
+Greenland,2022,85
+Guatemala,2022,440
+Haiti,2022,1272
+Honduras,2022,433
+"Hong Kong, China",2022,779
+Hungary,2022,258
+Iceland,2022,25
+India,2022,855
+Indonesia,2022,887
+Iran,2022,628
+Iraq,2022,1603
+Ireland,2022,328
+Israel,2022,463
+Italy,2022,315
+Jamaica,2022,726
+Japan,2022,533
+Jordan,2022,539
+Kazakhstan,2022,701
+Kenya,2022,222
+Korea,2022,571
+DPR of Korea,2022,231
+Kosovo,2022,987
+Kuwait,2022,767
+Kyrgyzstan,2022,76
+Latvia,2022,195
+Lebanon,2022,839
+Libya,2022,791
+Lithuania,2022,128
+Luxembourg,2022,172
+Malaysia,2022,765
+Malta,2022,363
+Mauritius,2022,852
+Mexico,2022,514
+Republic of Moldova,2022,493
+Mongolia,2022,1304
+Montenegro,2022,368
+Morocco,2022,718
+Mozambique,2022,98
+Myanmar,2022,446
+Namibia,2022,42
+Nepal,2022,19
+Netherlands,2022,395
+Nicaragua,2022,403
+Niger,2022,1052
+Nigeria,2022,509
+Norway,2022,26
+New Zealand,2022,145
+Oman,2022,549
+Pakistan,2022,491
+Panama,2022,201
+Paraguay,2022,19
+Peru,2022,240
+Philippines,2022,822
+Poland,2022,608
+Portugal,2022,295
+Qatar,2022,553
+Romania,2022,317
+Russian Federation,2022,433
+Saudi Arabia,2022,617
+Senegal,2022,912
+Serbia,2022,647
+Singapore,2022,484
+Slovak Republic,2022,164
+Slovenia,2022,226
+South Africa,2022,980
+Spain,2022,257
+Sri Lanka,2022,586
+Sudan,2022,418
+Sudan,2022,418
+Suriname,2022,513
+Sweden,2022,49
+Switzerland,2022,50
+Syrian Arab Republic,2022,794
+Chinese Taipei,2022,602
+Tajikistan,2022,88
+United Rep. of Tanzania,2022,405
+Thailand,2022,602
+Togo,2022,644
+Trinidad and Tobago,2022,573
+Tunisia,2022,540
+Turkey,2022,450
+Turkmenistan,2022,1055
+United Arab Emirates,2022,606
+United Kingdom,2022,264
+Ukraine,2022,361
+Uruguay,2022,86
+United States,2022,418
+Uzbekistan,2022,562
+Venezuela,2022,414
+Viet Nam,2022,526
+Yemen,2022,890
+Zambia,2022,192
+Zimbabwe,2022,771
+World,2023,516
+Americas,2023,353
+"OECD Americas (US, Canada, Mexico, Chile)",2023,368
+Non-OECD Americas,2023,247
+Africa,2023,648
+Asia,2023,628
+ASEAN,2023,688
+Europe,2023,278
+EU - 28,2023,203
+Europe excluding EU - 28,2023,365
+Middle East,2023,679
+Oceania,2023,492
+Albania,2023,17
+Algeria,2023,594
+Angola,2023,547
+Argentina,2023,380
+Armenia,2023,242
+Australia,2023,641
+Austria,2023,156
+Azerbaijan,2023,553
+Bahrain,2023,730
+Bangladesh,2023,588
+Belarus,2023,376
+Belgium,2023,207
+Benin,2023,962
+Bolivia,2023,432
+Bosnia and Herzegovina,2023,598
+Botswana,2023,1485
+Brazil,2023,146
+Brunei Darussalam,2023,879
+Bulgaria,2023,373
+Cambodia,2023,480
+Cameroon,2023,365
+Canada,2023,143
+Chile,2023,405
+People's Rep. of China,2023,638
+Colombia,2023,183
+Congo,2023,545
+Democratic Republic of the Congo,2023,19
+Costa Rica,2023,34
+Côte d'Ivoire,2023,410
+Croatia,2023,152
+Cuba,2023,565
+Curacao/Netherlands Antilles,2023,590
+Cyprus,2023,541
+Czech Republic,2023,407
+Denmark,2023,204
+Dominican Republic,2023,606
+Ecuador,2023,228
+Egypt,2023,586
+El Salvador,2023,231
+Eritrea,2023,872
+Estonia,2023,688
+Ethiopia,2023,18
+Finland,2023,156
+France,2023,53
+Guadeloupe,2023,812
+Saint Pierre et Miquelon,2023,845
+La Réunion,2023,697
+Nouvelle Calédonie,2023,502
+Mayotte,2023,698
+Martinique,2023,753
+Guyane,2023,893
+Macedonia,2023,556
+Gabon,2023,652
+Georgia,2023,114
+Germany,2023,349
+Ghana,2023,296
+Gibraltar,2023,628
+Greece,2023,471
+Greenland,2023,83
+Guatemala,2023,423
+Haiti,2023,1231
+Honduras,2023,418
+"Hong Kong, China",2023,764
+Hungary,2023,245
+Iceland,2023,25
+India,2023,837
+Indonesia,2023,880
+Iran,2023,615
+Iraq,2023,1574
+Ireland,2023,311
+Israel,2023,437
+Italy,2023,298
+Jamaica,2023,699
+Japan,2023,519
+Jordan,2023,528
+Kazakhstan,2023,691
+Kenya,2023,217
+Korea,2023,560
+DPR of Korea,2023,227
+Kosovo,2023,934
+Kuwait,2023,752
+Kyrgyzstan,2023,75
+Latvia,2023,187
+Lebanon,2023,822
+Libya,2023,772
+Lithuania,2023,124
+Luxembourg,2023,164
+Malaysia,2023,759
+Malta,2023,344
+Mauritius,2023,830
+Mexico,2023,497
+Republic of Moldova,2023,468
+Mongolia,2023,1281
+Montenegro,2023,348
+Morocco,2023,700
+Mozambique,2023,96
+Myanmar,2023,443
+Namibia,2023,41
+Nepal,2023,18
+Netherlands,2023,373
+Nicaragua,2023,389
+Niger,2023,1026
+Nigeria,2023,497
+Norway,2023,26
+New Zealand,2023,143
+Oman,2023,538
+Pakistan,2023,483
+Panama,2023,193
+Paraguay,2023,19
+Peru,2023,231
+Philippines,2023,815
+Poland,2023,572
+Portugal,2023,279
+Qatar,2023,541
+Romania,2023,300
+Russian Federation,2023,428
+Saudi Arabia,2023,605
+Senegal,2023,889
+Serbia,2023,611
+Singapore,2023,481
+Slovak Republic,2023,155
+Slovenia,2023,213
+South Africa,2023,967
+Spain,2023,243
+Sri Lanka,2023,576
+Sudan,2023,408
+Sudan,2023,408
+Suriname,2023,492
+Sweden,2023,47
+Switzerland,2023,48
+Syrian Arab Republic,2023,779
+Chinese Taipei,2023,591
+Tajikistan,2023,87
+United Rep. of Tanzania,2023,395
+Thailand,2023,597
+Togo,2023,628
+Trinidad and Tobago,2023,549
+Tunisia,2023,527
+Turkey,2023,426
+Turkmenistan,2023,1041
+United Arab Emirates,2023,594
+United Kingdom,2023,252
+Ukraine,2023,342
+Uruguay,2023,84
+United States,2023,403
+Uzbekistan,2023,554
+Venezuela,2023,399
+Viet Nam,2023,522
+Yemen,2023,873
+Zambia,2023,187
+Zimbabwe,2023,751
