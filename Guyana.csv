@@ -1,0 +1,40 @@
+﻿Q8;Q11;Q12;Q13;Q14;Q16;Q20;Q46;Q47;Q48;Q49_1;Q49_2;Q49_3;Q49_4;Q49_5;Q52;Q54;Q55;Q56;Q58;Q59_1_1;Q59_2_1;Q59_3_1;Q59_4_1;Q59_5_1;Q59_6_1;Q59_7_1;Q59_8_1;Q59_9_1;Q59_10_1;Q59_11_1;Q59_12_1;Q59_13_1;Q60_1;Q60_2;Q60_3;Q60_4;Q60_5;Q61;Q62;Q63_1;Q63_2;Q63_3;Q63_4;Q63_5;Q63_6;Q64;Q65_1;Q65_2;Q65_3;Q65_4;Q65_5;Q65_6;Q65_7;Q65_8;Q74;Q75;Q76;Q77;size_biz
+Region 3;rural;41-50;male;primary;10. Jun;yes;yes;no;no;;;;;;;;;;no;1;;;;;;;;;;;;;1;1;0;1;0;;;;;;;;;2;1;1;1;0;0;1;1;0;no;;;;SME
+Region 6;rural;Over 50;female;secondary;16-20;no;no;no;yes;1;0;0;0;0;yes;;1;;no;;;;1;;;;;;;;;;;;;;;;;;;;;;;4;1;1;1;0;0;1;1;0;yes;working capital;no;5000000;SME
+Region 3;rural;Over 50;female;secondary;more than 20;yes;yes;no;yes;1;0;0;0;0;yes;2100000;1;600000;no;0;;1;;;;;;;;;;0;;;;;;;;;;;;;;4;0;0;1;0;0;1;0;0;no;;;;SME
+Region 3;rural;Over 50;male;Did not attend;10. Jun;yes;yes;no;no;;;;;;;;;;no;;;;;;;;;;;;;;;;;;;;;;;;;;;2;0;0;1;0;0;0;0;0;yes;building/facility improvements;yes;3000000;SME
+Region 3;rural;31-40;male;secondary;16-20;yes;no;no;yes;1;0;0;0;0;yes;;2;16000000;yes;;;;;;;;;;;;;;;;;;;Approved;moderate;0;0;0;0;0;1;2;0;0;1;0;1;1;0;0;yes;fixed asset;yes;2,20E+08;SME
+Region 3;rural;31-40;male;Did not attend;16-20;yes;yes;no;no;;;;;;;;;;no;1;;;;;;;;;;;;;1;1;0;1;0;;;;;;;;;2;1;1;1;1;0;1;1;0;no;;;;SME
+Region 3;rural;Over 50;female;Did not attend;10. Jun;yes;no;no;no;;;;;;;;;;no;1;;;;;;;;;;;;;0;0;0;0;1;;;;;;;;;4;1;0;1;1;0;0;1;0;no;;;;SME
+Region 3;rural;41-50;male;Did not attend;16-20;yes;yes;yes;yes;1;0;0;0;0;yes;72000000;1;15000000;no;0;;;;;;;;1;;;;;;;;;;;;;;;;;;1;1;1;1;1;1;1;1;0;yes;adding a new line of business;no;30000000;SME
+Region 6;urban;41-50;male;primary;16-20;no;no;no;no;;;;;;;;;;no;;;;;;;1;;;;;0;;;;;;;;;;;;;;;4;1;0;1;0;0;0;1;0;yes;working capital;dont know;1000000;SME
+Region 6;urban;25-30;female;vocational/technical;16-20;yes;yes;no;no;;;;;;;;;;no;1;;;;;;;;;;;;;1;1;0;1;0;;;;;;;;;1;1;1;1;1;1;1;1;1;DK/Refused;;;;SME
+Region 4;rural;31-40;female;university;16-20;yes;DK/Refused;no;yes;1;0;0;0;0;yes;;1;2300000;no;;1;;;;;;;;;;;;;;;;;;;;;;;;;1;1;0;1;1;0;1;1;0;yes;working capital;no;10000000;SME
+Region 6;rural;Over 50;male;Did not attend;more than 20;yes;yes;no;yes;1;0;0;0;0;yes;4000000;2;2;no;;;;;;;;;;;;;1;;;;;;;;;;;;;;2;0;0;1;0;0;1;0;0;no;;;;SME
+Region 6;rural;18-24;male;secondary;10. Jun;no;yes;no;yes;1;0;0;0;0;yes;3000000;0;0;no;1;;0;;;;;;;;;;;1;0;0;0;0;;;;;;;;;2;1;0;1;0;1;1;0;0;no;;;;SME
+Region 6;rural;Over 50;male;secondary;more than 20;no;yes;yes;yes;1;0;0;0;0;yes;15000000;1;45000000;no;1;;;;;;;;;;;;;1;0;1;0;0;;;;;;;;;3;1;1;1;0;0;1;0;0;yes;land or building;yes;40000000;Micro
+Region 6;rural;31-40;male;Did not attend;10. Jun;no;no;no;no;;;;;;;;;;no;1;1;1;;;;;;;;;;;0;0;0;1;0;;;;;;;;;5;0;0;0;0;0;0;0;1;no;;;;Micro
+Region 6;rural;25-30;female;university;15. Nov;yes;yes;DK/Refused;no;;;;;;;;;;DK/Refused;;;;;;;;;;;;;;;;;;;;;;;;;;;3;1;1;1;1;1;1;1;0;DK/Refused;;;;SME
+Region 6;rural;31-40;male;secondary;10. Jun;yes;yes;yes;yes;1;0;0;0;0;no;;1;1;yes;;;;;;;;;;;;;;;;;;;still in process;moderate;0;0;1;0;0;0;1;1;1;1;1;1;1;1;0;yes;other;yes;18000000;SME
+Region 6;rural;41-50;female;Did not attend;more than 20;yes;yes;yes;no;;;;;;;;;;no;0;;1;0;;;;;;;;;;;;;;;;;;;;;;;2;1;1;1;1;1;1;1;0;no;;;;SME
+Region 6;rural;41-50;male;Did not attend;16-20;no;yes;no;yes;1;0;0;0;0;yes;1500000;1;1500000;yes;;;;;;;;;;;;;;;;;;;Approved;moderate;0;1;0;0;0;0;4;0;0;1;0;0;0;0;0;yes;land or building;yes;5000000;SME
+Region 6;rural;31-40;male;secondary;more than 20;no;yes;no;yes;1;0;1;0;0;yes;88000000;1;3000000;yes;;;;;;;;;;;;;;;;;;;Approved;simple;0;0;0;0;0;1;3;1;1;1;1;0;1;0;0;yes;fixed asset;yes;15000000;SME
+Region 3;rural;25-30;male;secondary;0-5;no;no;no;no;;;;;;;;;;no;;;;;;;;;;;1;;;;;;;;;;;;;;;;3;1;0;1;0;0;1;0;0;DK/Refused;;;;Micro
+Region 3;rural;Over 50;male;secondary;more than 20;yes;yes;yes;no;;;;;;;;;;no;0;;1;;;;;;;;;;0;;;;;;;;;;;;;;3;1;1;1;1;1;1;1;0;no;;;;SME
+Region 3;urban;Over 50;male;Graduate/post-grad;more than 20;yes;yes;no;no;;;;;;;;;;no;;;;;;;;;;;1;;;0;1;0;1;0;;;;;;;;;1;1;1;1;0;0;1;1;0;yes;building/facility improvements;yes;12000000;SME
+Region 4;rural;31-40;female;Did not attend;15. Nov;no;no;no;no;;;;;;;;;;no;;;;;;;;;;;1;;;;;;;;;;;;;;;;1;0;0;1;1;0;1;1;0;no;;;;Micro
+Region 4;rural;31-40;male;university;more than 20;yes;no;yes;yes;1;0;0;0;0;yes;1,84E+08;1;5000000;no;;;1;;;;;;;;;;;;;;;;;;;;;;;;1;1;0;1;0;1;1;1;0;DK/Refused;;;;SME
+Region 4;rural;Over 50;female;Did not attend;more than 20;yes;yes;no;no;;;;;;;;;;no;;;;;;;;;;;;;1;;;;;;;;;;;;;;4;0;0;1;0;0;1;0;0;no;;;;SME
+Region 4;rural;31-40;female;secondary;16-20;yes;yes;no;no;;;;;;;;;;no;;;;;;;;;;;;;1;;;;;;;;;;;;;;6;0;0;0;0;0;1;0;0;DK/Refused;;;;SME
+Region 4;rural;Over 50;male;secondary;more than 20;yes;yes;yes;yes;1;0;0;0;0;yes;80000000;1;24000000;no;1;;;;;;;;;;;;;1;0;0;0;0;;;;;;;;;3;1;0;1;0;1;1;1;0;yes;building/facility improvements;no;;SME
+Region 4;rural;Over 50;male;secondary;10. Jun;yes;no;no;no;;;;;;;;;;no;;;;;;;;;;;;;1;;;;;;;;;;;;;;1;1;1;1;1;0;1;1;0;yes;working capital;no;;SME
+Region 4;urban;41-50;male;secondary;10. Jun;yes;yes;no;no;;;;;;;;;;no;;;;;;;;;;;1;;;1;1;0;1;0;;;;;;;;;1;1;1;1;1;1;1;1;0;no;;;;SME
+Region 4;rural;31-40;female;vocational/technical;0-5;yes;no;no;no;;;;;;;;;;no;1;;;;;;;;;;;;;1;1;1;0;0;;;;;;;;;3;0;1;0;1;0;1;0;0;DK/Refused;;;;SME
+Region 4;rural;Over 50;male;secondary;0-5;yes;no;no;yes;1;0;0;0;0;yes;600000;0;0;yes;;;;;;;;;;;;;;;;;;;Approved;moderate;1;1;0;1;0;0;3;1;0;1;1;1;1;0;0;no;;;;SME
+Region 4;rural;Over 50;female;secondary;15. Nov;no;no;no;no;;;;;;;;;;no;;1;;;;;;;;;;;;;;;;;;;;;;;;;4;0;1;1;0;1;1;0;0;no;;;;Micro
+Region 4;rural;Over 50;female;university;15. Nov;yes;yes;yes;no;;;;;;;;;;no;1;;;;;;;;;;;;;1;1;1;0;0;;;;;;;;;1;1;1;1;1;1;1;1;0;yes;adding a new line of business;yes;14000000;SME
+Region 4;rural;31-40;female;secondary;0-5;yes;yes;yes;no;;;;;;;;;;yes;;;;;;;;;;;;;;;;;;;Rejected;other;1;0;1;0;0;0;1;1;1;1;1;1;1;1;0;yes;fixed asset;yes;3000000;SME
+Region 4;rural;41-50;female;university;10. Jun;yes;yes;no;no;;;;;;;;;;no;1;;;;;;;;;;;;;1;0;0;0;0;;;;;;;;;1;1;1;1;1;1;1;1;0;yes;adding a new line of business;no;;SME
+Region 4;rural;41-50;male;secondary;0-5;yes;no;no;no;;;;;;;;;;no;1;;;;;;;;;;;;;0;1;0;0;0;;;;;;;;;2;1;1;1;0;0;1;1;0;no;;;;SME
+Region 4;urban;41-50;male;Did not attend;more than 20;no;no;no;no;;;;;;;;;;no;;;;1;;;;;;;;;;;;;;;;;;;;;;;5;0;1;1;0;0;1;1;0;yes;adding a new line of business;yes;200000;Micro
+Region 4;urban;31-40;male;secondary;15. Nov;yes;yes;no;yes;1;0;0;0;0;yes;15000000;1;7000000;no;;;;;;;;;;;;;1;;;;;;;;;;;;;;1;1;0;1;0;1;1;1;0;yes;adding a new line of business;yes;10000000;SME
