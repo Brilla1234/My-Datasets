@@ -1,0 +1,255 @@
+﻿Order ID;Date;Product;Price;Quantity;Cost;Purchase Type;Payment Method;Manager;Revenue
+10452;07.11.2022;Fries;3,49;574;0,88;Online ; Gift Card;Tom Jackson;2003,26
+10453;07.11.2022;Beverages;2,95;746;0,47;Online ; Gift Card;Pablo Perez;2200,7
+10454;07.11.2022;Sides & Other;4,99;201;2,25;In-store ; Gift Card;Joao Silva;1002,99
+10455;08.11.2022;Burgers;12,99;570;4,32;In-store ; Credit Card;Walter Muller;7404,3
+10456;08.11.2022;Chicken Sandwiches;9,95;202;2,85;In-store ; Credit Card;Walter Muller;2009,9
+10457;08.11.2022;Fries;3,49;574;0,88;In-store ; Credit Card;Remy Monet;2003,26
+10459;08.11.2022;Sides & Other;4,99;201;2,25;In-store ; Credit Card;Remy Monet;1002,99
+10460;09.11.2022;Burgers;12,99;555;4,32;In-store ; Credit Card;Walter Muller;7209,45
+10461;09.11.2022;Chicken Sandwiches;9,95;202;2,85;In-store ; Credit Card;Remy Monet;2009,9
+10462;09.11.2022;Fries;3,49;574;0,88;In-store ; Credit Card;Remy Monet;2003,26
+10463;09.11.2022;Beverages;2,95;678;0,47;In-store ; Credit Card;Remy Monet;2000,1
+10464;09.11.2022;Sides & Other;4,99;201;2,25;In-store ; Credit Card;Remy Monet;1002,99
+10465;10.11.2022;Burgers;12,99;555;4,32;In-store ; Credit Card;Pablo Perez;7209,45
+10466;10.11.2022;Chicken Sandwiches;9,95;202;2,85;In-store ; Credit Card;Pablo Perez;2009,9
+10467;10.11.2022;Fries;3,49;574;0,88;In-store ; Credit Card;Pablo Perez;2003,26
+10468;10.11.2022;Beverages;2,95;678;0,47;In-store ; Credit Card;Pablo Perez;2000,1
+10470;11.11.2022;Burgers;12,99;555;4,32;In-store ; Credit Card;Pablo Perez;7209,45
+10471;11.11.2022;Chicken Sandwiches;9,95;202;2,85;In-store ; Credit Card;Pablo Perez;2009,9
+10472;11.11.2022;Fries;3,49;631;0,88;In-store ; Credit Card;Pablo Perez;2202,19
+10473;11.11.2022;Beverages;2,95;678;0,47;In-store ; Credit Card;Pablo Perez;2000,1
+10474;11.11.2022;Sides & Other;4,99;201;2,25;In-store ; Credit Card;Pablo Perez;1002,99
+10475;12.11.2022;Burgers;12,99;524;4,32;In-store ; Credit Card;Pablo Perez;6806,76
+10476;12.11.2022;Chicken Sandwiches;9,95;202;2,85;In-store ; Credit Card;Pablo Perez;2009,9
+10477;12.11.2022;Fries;3,49;631;0,88;In-store ; Credit Card;Pablo Perez;2202,19
+10478;12.11.2022;Beverages;2,95;678;0,47;In-store ; Credit Card;Pablo Perez;2000,1
+10479;12.11.2022;Sides & Other;4,99;201;2,25;In-store ; Credit Card;Pablo Perez;1002,99
+10480;13.11.2022;Burgers;12,99;509;4,32;In-store ; Credit Card;Pablo Perez;6611,91
+10481;13.11.2022;Chicken Sandwiches;9,95;202;2,85;In-store ; Credit Card;Pablo Perez;2009,9
+10482;13.11.2022;Fries;25,5;631;0,88;In-store ; Credit Card;Joao Silva;16090,5
+10483;13.11.2022;Beverages;33,22;678;0,47;In-store ; Credit Card;Joao Silva;22523,16
+10484;13.11.2022;Sides & Other;21,44;201;2,25;In-store ; Credit Card;Joao Silva;4309,44
+10485;14.11.2022;Burgers;27,99;524;4,32;In-store ; Credit Card;Joao Silva;14666,76
+10486;14.11.2022;Chicken Sandwiches;29,05;202;2,85;In-store ; Credit Card;Joao Silva;5868,1
+10487;14.11.2022;Fries;3,49;631;0,88;In-store ; Credit Card;Joao Silva;2202,19
+10488;14.11.2022;Beverages;2,95;678;0,47;In-store ; Credit Card;Joao Silva;2000,1
+10489;14.11.2022;Sides & Other;4,99;201;2,25;In-store ; Credit Card;Pablo Perez;1002,99
+10490;15.11.2022;Burgers;12,99;509;4,32;In-store ; Credit Card;Pablo Perez;6611,91
+10491;15.11.2022;Chicken Sandwiches;9,95;202;2,85;In-store ; Credit Card;Pablo Perez;2009,9
+10492;15.11.2022;Fries;3,49;574;0,88;In-store ; Credit Card;Pablo Perez;2003,26
+10493;15.11.2022;Beverages;2,95;678;0,47;In-store ; Credit Card;Pablo Perez;2000,1
+10494;15.11.2022;Sides & Other;4,99;201;2,25;In-store ; Credit Card;Pablo Perez;1002,99
+10495;16.11.2022;Burgers;12,99;509;4,32;In-store ; Credit Card;Pablo Perez;6611,91
+10496;16.11.2022;Chicken Sandwiches;9,95;202;2,85;In-store ; Credit Card;Pablo Perez;2009,9
+10497;16.11.2022;Fries;3,49;574;0,88;In-store ; Credit Card;Pablo Perez;2003,26
+10498;16.11.2022;Beverages;2,95;678;0,47;Drive-thru ; Credit Card;Pablo Perez;2000,1
+10499;16.11.2022;Sides & Other;4,99;201;2,25;Drive-thru ; Credit Card;Pablo Perez;1002,99
+10500;17.11.2022;Burgers;12,99;524;4,32;Drive-thru ; Credit Card;Pablo Perez;6806,76
+10501;17.11.2022;Chicken Sandwiches;9,95;202;2,85;Drive-thru ; Credit Card;Pablo Perez;2009,9
+10502;17.11.2022;Fries;3,49;631;0,88;Drive-thru ; Credit Card;Pablo Perez;2202,19
+10503;17.11.2022;Beverages;2,95;678;0,47;Drive-thru ; Credit Card;Pablo Perez;2000,1
+10504;17.11.2022;Sides & Other;4,99;201;2,25;Drive-thru ; Credit Card;Pablo Perez;1002,99
+10505;18.11.2022;Burgers;12,99;539;4,32;Drive-thru ; Credit Card;Pablo Perez;7001,61
+10506;18.11.2022;Chicken Sandwiches;9,95;202;2,85;Drive-thru ; Credit Card;Pablo Perez;2009,9
+10507;18.11.2022;Fries;3,49;688;0,88;Drive-thru ; Credit Card;Pablo Perez;2401,12
+10508;18.11.2022;Beverages;2,95;678;0,47;Drive-thru ; Credit Card;Pablo Perez;2000,1
+10509;18.11.2022;Sides & Other;4,99;201;2,25;Drive-thru ; Credit Card;Pablo Perez;1002,99
+10510;19.11.2022;Burgers;12,99;509;4,32;Drive-thru ; Credit Card;Pablo Perez;6611,91
+10511;19.11.2022;Chicken Sandwiches;9,95;202;2,85;Drive-thru ; Credit Card;Joao Silva;2009,9
+10512;19.11.2022;Fries;3,49;688;0,88;Drive-thru ; Credit Card;Joao Silva;2401,12
+10513;19.11.2022;Beverages;2,95;678;0,47;Drive-thru ; Cash;Joao Silva;2000,1
+10514;19.11.2022;Sides & Other;4,99;201;2,25;Drive-thru ; Cash;Joao Silva;1002,99
+10515;20.11.2022;Burgers;12,99;478;4,32;Drive-thru ; Cash;Joao Silva;6209,22
+10516;20.11.2022;Chicken Sandwiches;9,95;202;2,85;Drive-thru ; Cash;Joao Silva;2009,9
+10520;21.11.2022;Burgers;12,99;493;4,32;Drive-thru ; Cash;Remy Monet;6404,07
+10521;21.11.2022;Chicken Sandwiches;9,95;202;2,85;Drive-thru ; Cash;Remy Monet;2009,9
+10522;21.11.2022;Fries;3,49;688;0,88;Drive-thru ; Cash;Remy Monet;2401,12
+10523;21.11.2022;Beverages;2,95;746;0,47;Drive-thru ; Cash;Remy Monet;2200,7
+10524;21.11.2022;Sides & Other;4,99;201;2,25;Drive-thru ; Cash;Remy Monet;1002,99
+10525;22.11.2022;Burgers;12,99;462;4,32;Drive-thru ; Cash;Remy Monet;6001,38
+10526;22.11.2022;Chicken Sandwiches;9,95;202;2,85;Drive-thru ; Cash;Remy Monet;2009,9
+10527;22.11.2022;Fries;3,49;688;0,88;Drive-thru ; Cash;Remy Monet;2401,12
+10528;22.11.2022;Beverages;2,95;746;0,47;Drive-thru ; Cash;Remy Monet;2200,7
+10529;22.11.2022;Sides & Other;4,99;201;2,25;Drive-thru ; Cash;Remy Monet;1002,99
+10530;23.11.2022;Burgers;12,99;478;4,32;Drive-thru ; Cash;Remy Monet;6209,22
+10531;23.11.2022;Chicken Sandwiches;9,95;202;2,85;Drive-thru ; Cash;Remy Monet;2009,9
+10532;23.11.2022;Fries;3,49;688;0,88;Drive-thru ; Cash;Joao Silva;2401,12
+10533;23.11.2022;Beverages;2,95;746;0,47;Drive-thru ; Cash;Joao Silva;2200,7
+10534;23.11.2022;Sides & Other;4,99;201;2,25;Drive-thru ; Cash;Pablo Perez;1002,99
+10535;24.11.2022;Burgers;12,99;478;4,32;Drive-thru ; Credit Card;Pablo Perez;6209,22
+10536;24.11.2022;Chicken Sandwiches;9,95;202;2,85;Drive-thru ; Credit Card;Pablo Perez;2009,9
+10537;24.11.2022;Fries;3,49;631;0,88;Drive-thru ; Credit Card;Pablo Perez;2202,19
+10538;24.11.2022;Beverages;2,95;746;0,47;Drive-thru ; Credit Card;Pablo Perez;2200,7
+10539;24.11.2022;Sides & Other;4,99;201;2,25;Drive-thru ; Credit Card;Pablo Perez;1002,99
+10540;25.11.2022;Burgers;12,99;462;4,32;Drive-thru ; Credit Card;Pablo Perez;6001,38
+10541;25.11.2022;Chicken Sandwiches;9,95;202;2,85;Drive-thru ; Credit Card;Tom Jackson;2009,9
+10542;25.11.2022;Fries;3,49;631;0,88;Drive-thru ; Credit Card;Tom Jackson;2202,19
+10543;25.11.2022;Beverages;2,95;746;0,47;Drive-thru ; Credit Card;Tom Jackson;2200,7
+10544;25.11.2022;Sides & Other;4,99;201;2,25;Drive-thru ; Credit Card;Tom Jackson;1002,99
+10545;26.11.2022;Burgers;12,99;447;4,32;Drive-thru ; Credit Card;Tom Jackson;5806,53
+10546;26.11.2022;Chicken Sandwiches;9,95;202;2,85;Drive-thru ; Credit Card;Tom Jackson;2009,9
+10547;26.11.2022;Fries;3,49;631;0,88;Drive-thru ; Credit Card;Tom Jackson;2202,19
+10548;26.11.2022;Beverages;2,95;746;0,47;Drive-thru ; Credit Card;Tom Jackson;2200,7
+10549;26.11.2022;Sides & Other;4,99;201;2,25;Drive-thru ; Credit Card;Tom Jackson;1002,99
+10550;27.11.2022;Burgers;12,99;462;4,32;Drive-thru ; Credit Card;Tom Jackson;6001,38
+10551;27.11.2022;Chicken Sandwiches;9,95;202;2,85;Drive-thru ; Credit Card;Tom Jackson;2009,9
+10552;27.11.2022;Fries;3,49;631;0,88;Online ; Credit Card;Tom Jackson;2202,19
+10553;27.11.2022;Beverages;2,95;746;0,47;Online ; Credit Card;Tom Jackson;2200,7
+10554;27.11.2022;Sides & Other;4,99;201;2,25;Online ; Credit Card;Tom Jackson;1002,99
+10555;28.11.2022;Burgers;12,99;478;4,32;Online ; Credit Card;Tom Jackson;6209,22
+10556;28.11.2022;Chicken Sandwiches;9,95;202;2,85;Online ; Credit Card;Tom Jackson;2009,9
+10557;28.11.2022;Fries;3,49;631;0,88;Online ; Credit Card;Tom Jackson;2202,19
+10558;28.11.2022;Beverages;2,95;678;0,47;Online ; Credit Card;Tom Jackson;2000,1
+10559;28.11.2022;Sides & Other;4,99;201;2,25;Online ; Credit Card;Tom Jackson;1002,99
+10560;29.11.2022;Burgers;12,99;478;4,32;Online ; Credit Card;Tom Jackson;6209,22
+10561;29.11.2022;Chicken Sandwiches;9,95;202;2,85;Online ; Credit Card;Tom Jackson;2009,9
+10562;29.11.2022;Fries;3,49;631;0,88;Online ; Credit Card;Tom Jackson;2202,19
+10563;29.11.2022;Beverages;2,95;678;0,47;Online ; Credit Card;Tom Jackson;2000,1
+10564;29.11.2022;Sides & Other;4,99;201;2,25;Online ; Credit Card;Tom Jackson;1002,99
+10565;30.11.2022;Burgers;12,99;493;4,32;Online ; Credit Card;Tom Jackson;6404,07
+10566;30.11.2022;Chicken Sandwiches;9,95;202;2,85;Online ; Credit Card;Tom Jackson;2009,9
+10567;30.11.2022;Fries;3,49;631;0,88;Online ; Credit Card;Tom Jackson;2202,19
+10568;30.11.2022;Beverages;2,95;678;0,47;Online ; Credit Card;Tom Jackson;2000,1
+10569;30.11.2022;Sides & Other;4,99;201;2,25;Online ; Credit Card;Tom Jackson;1002,99
+10570;01.12.2022;Burgers;12,99;493;4,32;Online ; Credit Card;Tom Jackson;6404,07
+10571;01.12.2022;Chicken Sandwiches;9,95;202;2,85;Online ; Credit Card;Tom Jackson;2009,9
+10572;01.12.2022;Fries;3,49;574;0,88;Online ; Credit Card;Remy Monet;2003,26
+10573;01.12.2022;Beverages;2,95;678;0,47;Online ; Credit Card;Remy Monet;2000,1
+10574;01.12.2022;Sides & Other;4,99;201;2,25;Online ; Credit Card;Remy Monet;1002,99
+10575;02.12.2022;Burgers;12,99;524;4,32;Online ; Credit Card;Remy Monet;6806,76
+10576;02.12.2022;Chicken Sandwiches;9,95;202;2,85;Online ; Credit Card;Remy Monet;2009,9
+10577;02.12.2022;Fries;3,49;631;0,88;Online ; Credit Card;Remy Monet;2202,19
+10578;02.12.2022;Beverages;2,95;678;0,47;Online ; Credit Card;Remy Monet;2000,1
+10579;02.12.2022;Sides & Other;4,99;201;2,25;Online ; Credit Card;Remy Monet;1002,99
+10580;03.12.2022;Burgers;12,99;524;4,32;Online ; Credit Card;Remy Monet;6806,76
+10581;03.12.2022;Chicken Sandwiches;9,95;202;2,85;Online ; Credit Card;Remy Monet;2009,9
+10582;03.12.2022;Fries;3,49;631;0,88;Online ; Credit Card;Tom Jackson;2202,19
+10583;03.12.2022;Beverages;2,95;678;0,47;Online ; Credit Card;Tom Jackson;2000,1
+10584;03.12.2022;Sides & Other;4,99;201;2,25;Online ; Credit Card;Tom Jackson;1002,99
+10585;04.12.2022;Burgers;12,99;539;4,32;Online ; Credit Card;Tom Jackson;7001,61
+10586;04.12.2022;Chicken Sandwiches;9,95;202;2,85;Online ; Credit Card;Tom Jackson;2009,9
+10590;05.12.2022;Burgers;12,99;555;4,32;Online ; Credit Card;Tom Jackson;7209,45
+10591;05.12.2022;Chicken Sandwiches;9,95;202;2,85;Online ; Credit Card;Tom Jackson;2009,9
+10592;05.12.2022;Fries;3,49;574;0,88;Online ; Credit Card;Tom Jackson;2003,26
+10593;05.12.2022;Beverages;2,95;678;0,47;Online ; Credit Card;Tom Jackson;2000,1
+10594;05.12.2022;Sides & Other;4,99;201;2,25;Online ; Credit Card;Tom Jackson;1002,99
+10595;06.12.2022;Burgers;12,99;539;4,32;Online ; Credit Card;Tom Jackson;7001,61
+10596;06.12.2022;Chicken Sandwiches;9,95;202;2,85;Online ; Credit Card;Tom Jackson;2009,9
+10597;06.12.2022;Fries;3,49;574;0,88;Online ; Credit Card;Tom Jackson;2003,26
+10598;06.12.2022;Beverages;2,95;678;0,47;Online ; Credit Card;Tom Jackson;2000,1
+10599;06.12.2022;Sides & Other;4,99;201;2,25;Online ; Credit Card;Tom Jackson;1002,99
+10600;07.12.2022;Burgers;12,99;524;4,32;Online ; Credit Card;Tom Jackson;6806,76
+10601;07.12.2022;Chicken Sandwiches;9,95;202;2,85;Online ; Credit Card;Tom Jackson;2009,9
+10602;07.12.2022;Fries;3,49;631;0,88;Online ; Cash;Tom Jackson;2202,19
+10603;07.12.2022;Beverages;2,95;678;0,47;Online ; Cash;Tom Jackson;2000,1
+10604;07.12.2022;Sides & Other;4,99;201;2,25;Online ; Cash;Tom Jackson;1002,99
+10605;08.12.2022;Burgers;12,99;539;4,32;Online ; Cash;Tom Jackson;7001,61
+10606;08.12.2022;Chicken Sandwiches;9,95;202;2,85;Online ; Cash;Tom Jackson;2009,9
+10607;08.12.2022;Fries;3,49;631;0,88;Online ; Cash;Tom Jackson;2202,19
+10608;08.12.2022;Beverages;2,95;678;0,47;Online ; Gift Card;Tom Jackson;2000,1
+10609;08.12.2022;Sides & Other;4,99;201;2,25;Online ; Gift Card;Tom Jackson;1002,99
+10610;09.12.2022;Burgers;12,99;570;4,32;Online ; Gift Card;Tom Jackson;7404,3
+10611;09.12.2022;Chicken Sandwiches;9,95;202;2,85;Online ; Gift Card;Tom Jackson;2009,9
+10612;09.12.2022;Fries;3,49;631;0,88;Online ; Gift Card;Tom Jackson;2202,19
+10613;09.12.2022;Beverages;2,95;678;0,47;Online ; Gift Card;Tom Jackson;2000,1
+10614;09.12.2022;Sides & Other;4,99;201;2,25;Online ; Gift Card;Tom Jackson;1002,99
+10615;10.12.2022;Burgers;12,99;570;4,32;Online ; Gift Card;Tom Jackson;7404,3
+10616;10.12.2022;Chicken Sandwiches;9,95;202;2,85;Online ; Gift Card;Tom Jackson;2009,9
+10617;10.12.2022;Fries;3,49;631;0,88;Online ; Gift Card;Tom Jackson;2202,19
+10618;10.12.2022;Beverages;2,95;678;0,47;Online ; Gift Card;Tom Jackson;2000,1
+10619;10.12.2022;Sides & Other;4,99;201;2,25;Online ; Gift Card;Tom Jackson;1002,99
+10620;11.12.2022;Burgers;12,99;586;4,32;Online ; Gift Card;Tom Jackson;7612,14
+10621;11.12.2022;Chicken Sandwiches;9,95;202;2,85;Online ; Gift Card;Tom Jackson;2009,9
+10622;11.12.2022;Fries;3,49;631;0,88;Online ; Gift Card;Tom Jackson;2202,19
+10623;11.12.2022;Beverages;2,95;746;0,47;Online ; Gift Card;Tom Jackson;2200,7
+10624;11.12.2022;Sides & Other;4,99;201;2,25;Online ; Gift Card;Tom Jackson;1002,99
+10625;12.12.2022;Burgers;12,99;570;4,32;Online ; Gift Card;Tom Jackson;7404,3
+10626;12.12.2022;Chicken Sandwiches;9,95;202;2,85;Online ; Gift Card;Tom Jackson;2009,9
+10627;12.12.2022;Fries;3,49;631;0,88;Online ; Gift Card;Tom Jackson;2202,19
+10628;12.12.2022;Beverages;2,95;678;0,47;Online ; Gift Card;Joao Silva;2000,1
+10629;12.12.2022;Sides & Other;4,99;201;2,25;Online ; Gift Card;Joao Silva;1002,99
+10630;13.12.2022;Burgers;12,99;570;4,32;Online ; Cash;Joao Silva;7404,3
+10631;13.12.2022;Chicken Sandwiches;9,95;202;2,85;Online ; Gift Card;Joao Silva;2009,9
+10632;13.12.2022;Fries;3,49;631;0,88;Online ; Gift Card;Joao Silva;2202,19
+10633;13.12.2022;Beverages;2,95;678;0,47;Online ; Gift Card;Joao Silva;2000,1
+10634;13.12.2022;Sides & Other;4,99;201;2,25;Online ; Gift Card;Joao Silva;1002,99
+10635;14.12.2022;Burgers;12,99;555;4,32;Online ; Gift Card;Joao Silva;7209,45
+10636;14.12.2022;Chicken Sandwiches;9,95;222;2,85;Online ; Gift Card;Joao Silva;2208,9
+10637;14.12.2022;Fries;3,49;631;0,88;Online ; Gift Card;Joao Silva;2202,19
+10638;14.12.2022;Beverages;2,95;678;0,47;Online ; Gift Card;Joao Silva;2000,1
+10639;14.12.2022;Sides & Other;4,99;201;2,25;Online ; Gift Card;Joao Silva;1002,99
+10640;15.12.2022;Burgers;12,99;539;4,32;Online ; Gift Card;Joao Silva;7001,61
+10641;15.12.2022;Chicken Sandwiches;9,95;222;2,85;Online ; Gift Card;Joao Silva;2208,9
+10642;15.12.2022;Fries;3,49;631;0,88;Online ; Cash;Joao Silva;2202,19
+10643;15.12.2022;Beverages;2,95;678;0,47;Online ; Cash;Joao Silva;2000,1
+10644;15.12.2022;Sides & Other;4,99;201;2,25;Online ; Cash;Joao Silva;1002,99
+10645;16.12.2022;Burgers;12,99;570;4,32;Online ; Cash;Joao Silva;7404,3
+10646;16.12.2022;Chicken Sandwiches;9,95;222;2,85;Online ; Cash;Joao Silva;2208,9
+10647;16.12.2022;Fries;3,49;631;0,88;Online ; Gift Card;Joao Silva;2202,19
+10648;16.12.2022;Beverages;2,95;746;0,47;Online ; Gift Card;Joao Silva;2200,7
+10649;16.12.2022;Sides & Other;4,99;201;2,25;Online ; Gift Card;Joao Silva;1002,99
+10650;17.12.2022;Burgers;12,99;586;4,32;Online ; Gift Card;Joao Silva;7612,14
+10651;17.12.2022;Chicken Sandwiches;9,95;222;2,85;Online ; Gift Card;Joao Silva;2208,9
+10652;17.12.2022;Fries;3,49;688;0,88;Online ; Gift Card;Joao Silva;2401,12
+10653;17.12.2022;Beverages;2,95;746;0,47;Online ; Gift Card;Joao Silva;2200,7
+10654;17.12.2022;Sides & Other;4,99;201;2,25;Online ; Gift Card;Joao Silva;1002,99
+10655;18.12.2022;Burgers;12,99;601;4,32;Online ; Gift Card;Joao Silva;7806,99
+10656;18.12.2022;Chicken Sandwiches;9,95;222;2,85;Online ; Gift Card;Joao Silva;2208,9
+10657;18.12.2022;Fries;3,49;688;0,88;Online ; Gift Card;Joao Silva;2401,12
+10658;18.12.2022;Beverages;2,95;746;0,47;Online ; Cash;Joao Silva;2200,7
+10659;18.12.2022;Sides & Other;4,99;201;2,25;Online ; Cash;Joao Silva;1002,99
+10660;19.12.2022;Burgers;12,99;632;4,32;In-store ; Cash;Joao Silva;8209,68
+10661;19.12.2022;Chicken Sandwiches;9,95;222;2,85;In-store ; Cash;Joao Silva;2208,9
+10662;19.12.2022;Fries;3,49;631;0,88;In-store ; Cash;Joao Silva;2202,19
+10663;19.12.2022;Beverages;2,95;746;0,47;In-store ; Cash;Joao Silva;2200,7
+10664;19.12.2022;Sides & Other;4,99;201;2,25;In-store ; Cash;Joao Silva;1002,99
+10665;20.12.2022;Burgers;12,99;647;4,32;In-store ; Cash;Joao Silva;8404,53
+10666;20.12.2022;Chicken Sandwiches;9,95;222;2,85;In-store ; Cash;Joao Silva;2208,9
+10667;20.12.2022;Fries;3,49;631;0,88;In-store ; Cash;Joao Silva;2202,19
+10668;20.12.2022;Beverages;2,95;746;0,47;In-store ; Cash;Joao Silva;2200,7
+10669;20.12.2022;Sides & Other;4,99;201;2,25;In-store ; Cash;Joao Silva;1002,99
+10670;21.12.2022;Burgers;12,99;678;4,32;In-store ; Cash;Joao Silva;8807,22
+10671;21.12.2022;Chicken Sandwiches;9,95;222;2,85;In-store ; Cash;Joao Silva;2208,9
+10672;21.12.2022;Fries;3,49;631;0,88;In-store ; Cash;Joao Silva;2202,19
+10673;21.12.2022;Beverages;2,95;746;0,47;In-store ; Cash;Joao Silva;2200,7
+10674;21.12.2022;Sides & Other;4,99;201;2,25;In-store ; Cash;Joao Silva;1002,99
+10675;22.12.2022;Burgers;12,99;678;4,32;In-store ; Cash;Joao Silva;8807,22
+10676;22.12.2022;Chicken Sandwiches;9,95;242;2,85;In-store ; Cash;Joao Silva;2407,9
+10677;22.12.2022;Fries;3,49;631;0,88;In-store ; Cash;Joao Silva;2202,19
+10678;22.12.2022;Beverages;2,95;746;0,47;In-store ; Cash;Joao Silva;2200,7
+10679;22.12.2022;Sides & Other;4,99;201;2,25;In-store ; Cash;Joao Silva;1002,99
+10680;23.12.2022;Burgers;12,99;647;4,32;In-store ; Cash;Joao Silva;8404,53
+10681;23.12.2022;Chicken Sandwiches;9,95;242;2,85;In-store ; Cash;Joao Silva;2407,9
+10682;23.12.2022;Fries;3,49;631;0,88;In-store ; Cash;Joao Silva;2202,19
+10683;23.12.2022;Beverages;2,95;678;0,47;In-store ; Cash;Joao Silva;2000,1
+10684;23.12.2022;Sides & Other;4,99;201;2,25;In-store ; Cash;Joao Silva;1002,99
+10685;24.12.2022;Burgers;12,99;678;4,32;In-store ; Cash;Joao Silva;8807,22
+10686;24.12.2022;Chicken Sandwiches;9,95;242;2,85;In-store ; Cash;Joao Silva;2407,9
+10687;24.12.2022;Fries;3,49;631;0,88;In-store ; Cash;Walter Muller;2202,19
+10688;24.12.2022;Beverages;2,95;678;0,47;In-store ; Cash;Walter Muller;2000,1
+10689;24.12.2022;Sides & Other;4,99;201;2,25;In-store ; Cash;Walter Muller;1002,99
+10690;25.12.2022;Burgers;12,99;678;4,32;In-store ; Cash;Walter Muller;8807,22
+10691;25.12.2022;Chicken Sandwiches;9,95;262;2,85;In-store ; Cash;Walter Muller;2606,9
+10692;25.12.2022;Fries;3,49;631;0,88;In-store ; Cash;Walter Muller;2202,19
+10693;25.12.2022;Beverages;2,95;678;0,47;In-store ; Cash;Walter Muller;2000,1
+10694;25.12.2022;Sides & Other;4,99;201;2,25;In-store ; Cash;Walter Muller;1002,99
+10695;26.12.2022;Burgers;12,99;693;4,32;In-store ; Cash;Walter Muller;9002,07
+10696;26.12.2022;Chicken Sandwiches;9,95;282;2,85;In-store ; Cash;Walter Muller;2805,9
+10697;26.12.2022;Fries;3,49;631;0,88;In-store ; Cash;Walter Muller;2202,19
+10698;26.12.2022;Beverages;2,95;678;0,47;In-store ; Cash;Walter Muller;2000,1
+10699;26.12.2022;Sides & Other;4,99;201;2,25;In-store ; Cash;Walter Muller;1002,99
+10700;27.12.2022;Burgers;12,99;693;4,32;In-store ; Cash;Walter Muller;9002,07
+10701;27.12.2022;Chicken Sandwiches;9,95;282;2,85;In-store ; Cash;Walter Muller;2805,9
+10702;27.12.2022;Fries;3,49;631;0,88;In-store ; Cash;Walter Muller;2202,19
+10703;27.12.2022;Beverages;2,95;678;0,47;In-store ; Gift Card;Walter Muller;2000,1
+10704;27.12.2022;Sides & Other;4,99;201;2,25;Drive-thru ; Gift Card;Walter Muller;1002,99
+10705;28.12.2022;Burgers;12,99;724;4,32;Drive-thru ; Gift Card;Walter Muller;9404,76
+10706;28.12.2022;Chicken Sandwiches;9,95;302;2,85;Drive-thru ; Gift Card;Walter Muller;3004,9
+10707;28.12.2022;Fries;3,49;631;0,88;Drive-thru ; Gift Card;Walter Muller;2202,19
+10708;28.12.2022;Beverages;2,95;678;0,47;Drive-thru ; Gift Card;Walter Muller;2000,1
+10709;28.12.2022;Sides & Other;4,99;201;2,25;Drive-thru ; Gift Card;Walter Muller;1002,99
+10710;29.12.2022;Burgers;12,99;755;4,32;Drive-thru ; Gift Card;Walter Muller;9807,45
+10711;29.12.2022;Chicken Sandwiches;9,95;282;2,85;Drive-thru ; Gift Card;Walter Muller;2805,9
+10712;29.12.2022;Fries;3,49;631;0,88;Drive-thru ; Gift Card;Walter Muller;2202,19
+10713;29.12.2022;Beverages;2,95;678;0,47;Drive-thru ; Gift Card;Walter Muller;2000,1
